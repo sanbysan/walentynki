@@ -60,3 +60,6 @@ body {
 .footer > p > a:hover {
     color: #fff;
 }
+.current {
+    background-color: rgba(160, 63, 64, 0.9);
+}
